@@ -7,7 +7,7 @@ import { SiTailwindcss,SiNextdotjs } from "react-icons/si"
 //about data
 const about = {
     title :'About me',
-    description: `Hello! I'm Eric Raf, a passionate and dedicated Front-End Developer with over 2 years of experience in crafting elegant and user-centric digital experiences. My expertise lies in transforming ideas into
+    description: `Hello! I'm Eric Raf, a passionate and dedicated Front-End Developer with over 3 years of experience in crafting elegant and user-centric digital experiences. My expertise lies in transforming ideas into
      visually stunning and highly functional websites and applications.I have a solid background in front-end development,
       specializing in modern technologies like HTML, CSS, JavaScript, and frameworks such as React.js, Next.js and Tailwind Css.
        My design philosophy is centered on creating seamless user interfaces that not only look good but also offer 
@@ -46,17 +46,12 @@ const about = {
 //experience data
 const experience = {
     title:'Experience',
-    description:"As a freelance web developer and instructor with over 2 years of experience, I specialize in creating engaging and user-friendly web applications.My expertise lies in front-end development using modern technologies like React.js, Next.js, and Tailwind CSS. I work closely with clients to understand their needs and deliver solutions that exceed their expectations.",
+    description:"As a freelance web developer and instructor with over 3 years of experience, I specialize in creating engaging and user-friendly web applications.My expertise lies in front-end development using modern technologies like React.js, Next.js, and Tailwind CSS. I work closely with clients to understand their needs and deliver solutions that exceed their expectations.",
     items:[
         {
             company:"Freelance",
-            position:"Full Stack Developer",
-            duration:"2021 - present",
-        },
-        {
-            company:"Freelance",
             position:"Front-end Developer Intern",
-            duration:"2021 - present",
+            duration:"2022 - present",
         },
         {
             company:"Freelance",
@@ -66,12 +61,12 @@ const experience = {
         {
             company:"Frelance",
             position:"Designer",
-            duration:"2021-present",
+            duration:"2022-present",
         },
         {
             company:"Freelance",
             position:"graphic designer",
-            duration:"2021 - present",
+            duration:"2020 - present",
         },
     ]
 }
