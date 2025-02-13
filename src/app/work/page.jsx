@@ -13,8 +13,8 @@ const projects = [
     {
         num:'01',
         category:"frontend",
-        title:"project 1",
-        description:"This project showcases a responsive and interactive recipe website built using Next.js and Tailwind CSS. The website features a variety of recipes, including fresh tomato soups, vegetarian dishes, and summer meals for two.",
+        title:"financial",
+        description:"Financial Marketing is a modern web platform built with Next.js and Tailwind CSS, designed to provide insights into financial trends, investment strategies, and marketing solutions. The project offers a clean and responsive UI, making it easy for users to access financial resources, case studies, and expert advice. It focuses on delivering valuable financial information with an optimized and user-friendly experience.",
         stack:[
             {
                 name:"Next.js"
@@ -23,32 +23,15 @@ const projects = [
                 name:"Tailwind.css"
             },
         ],
-        image:"/photo/food.png",
-        live:"",
-        github:"",
+        image:'/photo/fin.jpg',
+        live:"https://financial-9540snljz-erics-projects-161d28c0.vercel.app/",
+        github:"https://github.com/EricRaf124/finance",
     },
     {
         num:'02',
-        category:"Front-end project",
-        title:"project 2",
-        description:"This project showcases a comprehensive movie database website built using Next.js and Tailwind CSS. The website allows users to browse and explore a wide range of movies, view details, and add movies to their watchlist.",
-        stack:[
-            {
-                name:"Next.js"
-            },
-            {
-                name:"Tailwind.css"
-            },
-        ],
-        image:'/photo/movie.png',
-        live:"",
-        github:"",
-    },
-    {
-        num:'03',
         category:"frontend",
-        title:"project 3",
-        description:"This project showcases a comprehensive travel website built using Next.js and Tailwind CSS. The website allows users to browse and explore various travel destinations, view detailed information about each location, and plan their trips.",
+        title:"travel",
+        description:"Travel UI/UX is a modern web application built with Next.js and Tailwind CSS. It provides an intuitive and visually appealing interface for users to explore travel destinations, book trips, and find travel-related information. The project focuses on a seamless user experience with optimized performance and responsive design.",
         stack:[
             {
                 name:"Next.js"
@@ -57,10 +40,10 @@ const projects = [
                 name:"Tailwind.css"
             },
         ],
-        image:'/photo/Travel.png',
-        live:"",
-        github:"",
-    },
+        image:"/photo/travelone.jpg",
+        live:"https://traveluiux-xi.vercel.app/",
+        github:"https://github.com/EricRaf124/travel_ui_ux",
+    }
 ];
 
 

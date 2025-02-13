@@ -18,7 +18,7 @@ const Home = () => {
                     </p>
                     {/**btn and socials */}
                     <div className="flex flex-col xl:flex-row items-center gap-8">
-                        <a href="/CV/cv.pdf" download className="uppercase flex items-center gap-2  outline-none">  
+                        <a href="/CV/Eric.pdf" download className="uppercase flex items-center gap-2  outline-none">  
                           <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">
                                      <span>Download CV</span>
                                     <FiDownload className="text-xl" />

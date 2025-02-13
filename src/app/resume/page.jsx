@@ -35,7 +35,7 @@ const about = {
         },
         {
             fieldName:"Email",
-            fieldValue:"rafanomezantsoaeric90@gmail.com"
+            fieldValue:"rafanomezantsoaeric31@gmail.com"
         },
         {
             fieldName:"Language",
@@ -51,27 +51,27 @@ const experience = {
         {
             company:"Freelance",
             position:"Full Stack Developer",
-            duration:"2021 - 2023",
+            duration:"2021 - present",
         },
         {
             company:"Freelance",
             position:"Front-end Developer Intern",
-            duration:"2021 - 2023",
+            duration:"2021 - present",
         },
         {
             company:"Freelance",
             position:"Web Instructor",
-            duration:"2021 - 2024",
+            duration:"2021 - present",
         },
         {
             company:"Frelance",
             position:"Designer",
-            duration:"2021-2022",
+            duration:"2021-present",
         },
         {
             company:"Freelance",
             position:"graphic designer",
-            duration:"2021 - 2023",
+            duration:"2021 - present",
         },
     ]
 }
@@ -137,11 +137,6 @@ const skills = {
             icon:<FaNodeJs/>,
             name:"node.Js",
         },
-        {
-            icon:<FaFigma/>,
-            name:"figma",
-        },
-
         
     ]
 }

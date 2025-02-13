@@ -14,12 +14,12 @@ const infos = [
     {
         icon:<FaEnvelope/>,
         title:"Email",
-        description:"rafanomezantsoaeric90@gmail.com",
+        description:"rafanomezantsoaeric31@gmail.com",
     },
     {
         icon:<FaMapMarkerAlt/>,
         title:"Address",
-        description:"Lot II P 50 Avaradoha",
+        description:"II E 2ZFC Ambatokaranana",
     },
 
 ];
@@ -87,6 +87,7 @@ const Contact = () => {
                                 )
                             })}
                         </ul>
+                        
                     </div>
                 </div>
             </div>
