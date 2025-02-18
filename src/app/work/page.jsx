@@ -24,7 +24,7 @@ const projects = [
             },
         ],
         image:'/photo/fin.jpg',
-        live:"https://financial-9540snljz-erics-projects-161d28c0.vercel.app/",
+        live:"https://financial-dusky.vercel.app/",
         github:"https://github.com/EricRaf124/finance",
     },
     {
